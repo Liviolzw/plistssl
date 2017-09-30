@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.syb.gequbi</string>
+				<string>com.baoWang.qugebi</string>
 				<key>bundle-version</key>
 				<string>3.0</string>
 				<key>kind</key>
