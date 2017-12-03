@@ -11,25 +11,25 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.157.193.109:7979/extra/bqg_orange.ipa</string>
+					<string>http://192.157.193.109:7979/extra/basepkg/bqg_orange.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.157.193.109:7979/extra/bqg_orange_icon.png</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.157.193.109:7979/extra/bqg_orange_icon.png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.syb.gequbi</string>
+				<string>com.baoWang.qugebi</string>
 				<key>bundle-version</key>
 				<string>3.0</string>
 				<key>kind</key>
