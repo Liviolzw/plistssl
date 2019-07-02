@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.regengxiaoshuo.book</string>
+				<string>com.zhibin.bigequ</string>
 				<key>bundle-version</key>
 				<string>3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>JWReader</string>
+				<string>Reader</string>
 			</dict>
 		</dict>
 	</array>
